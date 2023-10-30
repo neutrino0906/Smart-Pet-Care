@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "279778886535",
+    "project_id": "petcura-95a88",
+    "storage_bucket": "petcura-95a88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279778886535:android:ff0d6ce1f2752e21b9c922",
+        "android_client_info": {
+          "package_name": "com.example.pet_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279778886535-a1kj3lli71m4goaln2c5m4mk2b06cm9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWDMi_AFfKqDgF2oKcsbyljVpoasw8do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279778886535-a1kj3lli71m4goaln2c5m4mk2b06cm9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279778886535:android:588ab38be05c3699b9c922",
+        "android_client_info": {
+          "package_name": "com.example.test_tflite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279778886535-a1kj3lli71m4goaln2c5m4mk2b06cm9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWDMi_AFfKqDgF2oKcsbyljVpoasw8do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279778886535-a1kj3lli71m4goaln2c5m4mk2b06cm9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
